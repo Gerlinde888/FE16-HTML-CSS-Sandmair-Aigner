@@ -1,4 +1,5 @@
     Discuss with your partner how the DOM is created and displayed on your screen.
+        DOM contains a bunch of nodes where each node represents an HTML element. The <HTML> tag always comes at the top and hence is called the “root node”. The rest of the nodes come under it and hence are called “children nodes”.
 
     What are the best CSS creation practices?
         in a seperate file
