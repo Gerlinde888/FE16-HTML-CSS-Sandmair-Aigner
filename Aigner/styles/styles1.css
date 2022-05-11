@@ -2,3 +2,17 @@ div {
   border: 1px;
   margin: 5px;
 }
+#third > p {
+  display: none;
+}
+
+h1 {
+  display: none;
+}
+#sixth {
+  display: block;
+}
+
+#second * {
+  display: none;
+}
