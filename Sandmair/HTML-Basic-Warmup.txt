@@ -1,0 +1,85 @@
+   
+   
+Warm Up Questions:
+
+What is the div tag and why is it important? What is the difference between div and span elements?
+
+A div element is used for block-level organization and styling of page elements, 
+whereas a span element is used for inline organization and styling.
+
+
+
+What is the purpose of semantic elements in HTML5?
+
+A semantic element clearly describes its meaning to both the browser and the developer.
+
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+
+Examples of semantic elements: <form>, <table>, and <img> - Clearly defines its content.
+HTML5's semantic elements help structure the code we create, making it more readable and easier to maintain. 
+They help us think about the structure of our dynamic data, and to choose titles' hierarchy properly. 
+They help us differentiate the semantic elements of our markup from the ones we use solely for layout.
+
+
+
+Please tell to your partner the name of an HTML5 Semantic element and he/she needs to describe it, then switch the roles.
+
+examples of semantic elements:
+
+<form>
+<table>
+<img>
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+
+
+Why are Meta Tags important and what can you do with Meta Tags?
+
+Meta tags are the first impression someone has of your page on a SERP. A good meta description will attract users to click through and visit your site. They ensure that search engines know what your content is about, so they'll be able to show the website in the appropriate results.
+
+
+
+Is it possible to have a functional Web page without links?
+Yes, if functional means that the side works, when information is shown.
+No, if functional means that you need more than one page to connect.
+
+
+Why is the alt tag important for the use of images?
+It is important to know the content of the image in the case that the image could not be loaded
+The alt-text for the images is also needed for blind and dump people for their barrier-free access. 
+
+How many list types do we have in HTML? Describe them.
+ordered, unorderded and descriptive
+
+
+Could we make an entire page layout using tables? How?
+Set the table width 100%, and use the th for the headers, tr for lines and td for rows.
+
+
+What is the purpose of forms in HTML?
+To collect information and to send the information from one page to another, or to send the information to a database or to an email.
+
+
+What can you achieve using an iframe element?
+To insert to an webpage another small window of another page.
+
+
+Why are comments important in well-written code?
+To make the purpose of the code clear.
+
+
+How could you play audio and video in HTML file?
+with the audio and the video tag.
