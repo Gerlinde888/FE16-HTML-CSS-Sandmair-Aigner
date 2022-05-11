@@ -1,4 +1,4 @@
-div {
+/* div {
   border: 1px;
   margin: 5px;
 }
@@ -8,11 +8,11 @@ div {
 
 h1 {
   display: none;
-}
-#sixth {
-  display: block;
+} */
+* {
+  visibility: hidden;
 }
 
-#second * {
-  display: none;
+img {
+  visibility: visible;
 }
