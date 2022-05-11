@@ -9,8 +9,11 @@
         using ids and classes with names
 
      What types of CSS selectors exist, can you name examples?
-        Simple, which are based on name, id and classes
+        Simple, which are based on tag-name, id and classes ex. p; #idname; -classname
         Combination based on specific realation to each other like descandant p i {} and child p > i {}
+        Staterelevant:  Visited and Unvisited Links look differently (a:link{}/a:Visited{} ); style elements regarding on focus, mouseover a:hover{} (ändert farbe von link by mouseover); a:active{} (wenn angeklickt)
+        Pseudo-Elements: To style specific parts of an element ex, p::first-line{} styles the first line of a paragraph
+
 
     How can we apply CSS code to a HTML page?
         Inline within tags <tag width=""></tag>
