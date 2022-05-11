@@ -1,0 +1,18 @@
+    Discuss with your partner how the DOM is created and displayed on your screen.
+
+    What are the best CSS creation practices?
+        in a seperate file
+        for every new style a new line and the different styles {} spread over as many lines as it take not single line)
+        id's unique 
+
+    What is specificity and how can you use it to select the elements you want?
+        using ids and classes with names
+
+     What types of CSS selectors exist, can you name examples?
+        Simple, which are based on name, id and classes
+        Combination based on specific realation to each other like descandant p i {} and child p > i {}
+
+    How can we apply CSS code to a HTML page?
+        Inline within tags <tag width=""></tag>
+        In the head within <style></style> and tag { } with thedescriptors in the brackets
+        external file styles.css same as in the style tags needs to be linked in the head by <link rel="stylesheet" href="styles.css"
