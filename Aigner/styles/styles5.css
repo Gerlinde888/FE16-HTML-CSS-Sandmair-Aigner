@@ -1,0 +1,27 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+#lead {
+  position: fixed;
+  top: 200px;
+  left: 300px;
+  width: 70%;
+}
+
+#lead h1 {
+  font-size: xx-large;
+  color: red;
+}
+
+#lead p {
+  background: slategray;
+}
+li {
+  display: inline;
+  background: slateblue;
+}
+
+.meow {
+  font-style: italic;
+}
