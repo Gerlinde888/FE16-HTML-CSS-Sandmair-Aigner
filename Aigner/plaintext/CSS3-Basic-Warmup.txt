@@ -13,6 +13,7 @@
         Combination based on specific realation to each other like descandant p i {} and child p > i {}
         Staterelevant:  Visited and Unvisited Links look differently (a:link{}/a:Visited{} ); style elements regarding on focus, mouseover a:hover{} (ändert farbe von link by mouseover); a:active{} (wenn angeklickt)
         Pseudo-Elements: To style specific parts of an element ex, p::first-line{} styles the first line of a paragraph
+        Attributes: 
 
 
     How can we apply CSS code to a HTML page?
