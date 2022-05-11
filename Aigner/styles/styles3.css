@@ -1,0 +1,31 @@
+/* styles for full page  */
+body {
+  background: rgb(122, 176, 176);
+}
+
+.sidebar {
+  background: rgb(5, 63, 104);
+  position: fixed;
+  top: 150px;
+  left: 0;
+  width: 225px;
+  height: 100%;
+}
+
+.header {
+  background: rgb(50, 69, 100);
+  position: fixed;
+  top: 0;
+  left: 225px;
+  height: 150px;
+  width: 100%;
+}
+
+.foo {
+  background: whitesmoke;
+  position: fixed;
+  bottom: 0;
+  left: 225px;
+  height: 50px;
+  width: 100%;
+}
