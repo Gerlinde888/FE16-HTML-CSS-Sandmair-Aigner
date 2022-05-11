@@ -13,7 +13,10 @@
         Combination based on specific realation to each other like descandant p i {} and child p > i {}
         Staterelevant:  Visited and Unvisited Links look differently (a:link{}/a:Visited{} ); style elements regarding on focus, mouseover a:hover{} (ändert farbe von link by mouseover); a:active{} (wenn angeklickt)
         Pseudo-Elements: To style specific parts of an element ex, p::first-line{} styles the first line of a paragraph
-        Attributes: 
+        Attributes: Tags with attributes like target for links (a[target]{}) change the style of the tag when there is a target, it can also be more precise like a[target="_blank"]
+                    with [attribute~="value"] the style of the attribute will be change when a specific word exists;
+                    with [attribute|="value"] it can be checked for the "exact" value or followed by -
+                    with [attribute^="value"] it checks the beginning of the attributefor the value does not need to be awhole word
 
 
     How can we apply CSS code to a HTML page?
